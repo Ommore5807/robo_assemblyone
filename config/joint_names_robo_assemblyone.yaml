@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'mid_right_hinge_UL_j', 'mid_right_hinge_LL_j', 'front_right_hinge_UL_j', 'front_right_hinge_LL_j', 'front_left_hinge_UL_j', 'front_left_hinge_LL_j', 'mid_left_hinge_UL_j', 'mid_left_hinge_LL_j', 'rear_left_hinge_UL_j', 'rear_left_hinge_LL_j', 'rear_right_hinge_UL_j', 'rear_right_hinge_LL_j', ]
